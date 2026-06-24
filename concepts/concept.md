@@ -27,6 +27,7 @@
 "Dashboard section", "TO-DO"
 "Text", "You need to do your math homework"
 ```
+**Note that this is psuedo code but reflects the general idea of what I want to do**
 
-Note that this is psuedo code but reflects the general idea of what I want to do
+- Can control external things & also support extension feature, will be cool once you can hookup another project I'm doing which is a firewall so you can sync your firewall stats to the bulletin board and such
 
