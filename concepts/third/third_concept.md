@@ -9,9 +9,18 @@
 
 ## Dimensions
 
-Height: ~14.0"
+Height: ~14.0"!
 Width: ~7.85"
 
 ## Features
 
 - Be able to actually talk into the dashboard and have it do stuff, low power speech recognition model and some other stuff should make this a pretty trivial task ideally use a **wake word**
+- Public api exposed to the internet for easy installation
+
+## Budget
+
+$60 -> Microphone
+$100 -> Display
+$50 -> Raspberry pi 3b + (or better)
+
+**$210** Total Cost
