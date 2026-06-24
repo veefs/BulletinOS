@@ -22,11 +22,11 @@
 
 3. Have AI agents or other things call the API key with some parameters maybe if we are json we can do like
 
-`json
+```json
 
 "Dashboard section", "TO-DO"
 "Text", "You need to do your math homework"
-`
+```
 
 Note that this is psuedo code but reflects the general idea of what I want to do
 
